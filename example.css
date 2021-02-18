@@ -1,0 +1,16 @@
+h1{color:black;font-weight:bold;font-size:36px;text-align:center;background-color:white;}
+
+
+
+
+a{
+ background-color:blue;color:white;font-size:20px;
+ text-align:center;border-radius:5px;
+ text-decoration:none;max-width:300px;
+ display:block;
+ animation:prunprun 2.2s ease-in infinite;
+ -webkit-animation:prunprun 2.2s ease-in infinite;
+ -moz-animation:prunprun 2.2s ease-in infinite;
+ -o-animation:prunprun 2.2s ease-in infinite;
+ -ms-animation:prunprun 2.2s ease-in infinite;
+}
